@@ -6,6 +6,12 @@
 pip install python-simples
 ```
 
+## features
+
+1. `SimpleStructure`, simple directory structure that store data and output files.
+2. `SimpleCellar`, simple command line application installation that not in PATH environment.
+3. `SimpleTask`, simple task that you and create it in somewhere, run it in another place.
+
 ## usage
 
 ### 1. SimpleStructure
